@@ -10,6 +10,6 @@ It is designed as a technical test, showcasing a simple real-time API setup with
 ### 1. Clone the Repository
 ```bash
 npm install
-
 npm run dev
 
+Dummy data in data folder.
