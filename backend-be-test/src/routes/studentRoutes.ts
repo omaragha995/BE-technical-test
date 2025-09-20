@@ -4,6 +4,6 @@ import { getCurrentExam } from "../controllers/studentController";
 
 const router = Router();
 
-router.get("/", getCurrentExam);
+router.get("/current", getCurrentExam);
 
 export default router;
